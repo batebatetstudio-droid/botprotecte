@@ -1,8 +1,8 @@
 {
     "1420425300231065603": {
-        "channel": 1437867166069162076,
+        "channel": null,
         "role": null,
-        "message": "szsz",
+        "message": "Bienvenue {user} !",
         "image": null,
         "dm": true,
         "goodbye": false
